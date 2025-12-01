@@ -9,6 +9,5 @@ Original tool:<br>
 
 keytabExtractor2 with the same keytab file:<br>
 ![keytabExtractor2](pic/pic02.png)
-
-It is useful if you need a key for multiple services, such as nfs, http, host, cifs, etc.
-For example, when abusing unconstrained delegation on linux.
+![keytabExtractor2](pic/pic03.png)
+It is useful if you need a key for a specific service, such as nfs, http, host, cifs, etc.
