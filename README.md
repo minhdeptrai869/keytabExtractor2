@@ -2,7 +2,7 @@
 
 Fully based on the original https://github.com/sosdave/KeyTabExtract. 
 
-Fixing the old tool which only dumped one entry from a keytab file then stopped.
+Fixing the old tool which only dumped one entry from a keytab file then stopped. This could be painful if you need a host/SERVER key but the first key belongs to nfs, for example.
 
 Original tool:<br>
 ![KeyTabExtract](pic/pic01.png)
